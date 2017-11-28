@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuAppLogin</string>
+    <string name="Ok">Logar</string>
+    <string name="textview_main">Informe seus dados:</string>
+    <string name="switch_manter">Manter conectado</string>
+    <string name="login_hint">Digite seu e-mail</string>
+    <string name="senha_hint">Digite sua senha</string>
+</resources>

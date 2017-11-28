@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_main">24sp</dimen>
+    <dimen name="swtich_manter">16sp</dimen>
+    <dimen name="swtich_espaco">15dp</dimen>
+</resources>
