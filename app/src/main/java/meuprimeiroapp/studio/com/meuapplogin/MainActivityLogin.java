@@ -141,6 +141,8 @@ public class MainActivityLogin extends AppCompatActivity {
         aviso = builder.create();
         //Exibe
         aviso.show();
+        //teste com o GitHub.
+        //duas alterações.
     }
 
 
